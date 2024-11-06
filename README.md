@@ -27,7 +27,7 @@ For each test, it:
 
 ## Detection Methods
 
-The tool looks for several VM indicators:
+Checks for several VM indicators:
 - Abnormal timing variations
 - Consistent sub-20 cycle operations
 - Statistical anomalies in cycle patterns
