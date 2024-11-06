@@ -5,7 +5,7 @@ RDTSC-Probe uses the CPU's RDTSC instruct to analyze timing patterns and detect 
 ## Features
 
 - Zero dependencies
-- Lightweight and fast
+- Lightweight (137kb) and fast
 - Single function implementation 
 - Multiple detection patterns
 - Statistical pattern analysis
